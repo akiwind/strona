@@ -1,3 +1,3 @@
 # strona
 
-Strona przedstawiająca popularne stule w akwarystyce.
+Strona przedstawiająca popularne style w akwarystyce.
